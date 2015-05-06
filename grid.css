@@ -1,0 +1,11 @@
+#full-page {
+  width:100%;
+}
+#page {
+  width:1040px;
+  margin:0 auto;
+}
+.grid-image {
+  float:left;
+  width:400px;
+}

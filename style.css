@@ -1,19 +1,20 @@
+@import url("grid.css");
 /*
-Theme Name: lionsafety
+Theme Name: whatever
 Theme URI: http://underscores.me/
-Author: Gareth Lund
-Author URI: https://www.behance.net/Glund
-Description: This is a custom, handcrafted theme designed and built for Lion Safety Matches
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
 Version: 1.0.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: lionsafety
+Text Domain: whatever
 Tags:
 
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 
-lionsafety is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+whatever is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
 
 Normalizing styles have been helped along thanks to the fine work of
 Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
@@ -837,6 +838,7 @@ object {
 .wp-caption .wp-caption-text {
 	margin: 0.8075em 0;
 }
+
 
 /*--------------------------------------------------------------
 ## Galleries

@@ -4,7 +4,7 @@
  *
  * Contains the closing of the #content div and all content after
  *
- * @package lionsafety
+ * @package whatever
  */
 ?>
 
@@ -12,9 +12,9 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'lionsafety' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'lionsafety' ), 'WordPress' ); ?></a>
+			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'whatever' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'whatever' ), 'WordPress' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'lionsafety' ), 'lionsafety', '<a href="https://www.behance.net/Glund" rel="designer">Gareth Lund</a>' ); ?>
+			<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'whatever' ), 'whatever', '<a href="http://underscores.me/" rel="designer">Underscores.me</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
